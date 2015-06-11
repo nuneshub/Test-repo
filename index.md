@@ -1,7 +1,7 @@
 ---
 title       : My Test of Slidify
 subtitle    : My subtitle
-author      : John Minter
+author      : author
 job         : job line
 logo        : slidify_logo_big.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
