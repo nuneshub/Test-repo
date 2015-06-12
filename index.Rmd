@@ -40,6 +40,7 @@ knit_hooks$set(plot = knitr:::hook_plot_html)
 ## Slide 2
 
 Here is some text (Slide 2)
+And some more text
 
 ```{r, results='hide'}
 set.seed(42)
