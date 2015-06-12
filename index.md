@@ -25,7 +25,9 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-Here is some text (Slide 2)
+1. Here is some text (Slide 2)
+2. Text
+3. Text
 
 
 ```r
